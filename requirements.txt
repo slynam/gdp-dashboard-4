@@ -1,5 +1,7 @@
 streamlit
 pandas
+st-gsheets-connection
+
 [[source]]
 url = "https://pypi.org/simple"
 verify_ssl = true
